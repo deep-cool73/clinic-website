@@ -1,3 +1,5 @@
+I MADE THIS PROJECT FOR MY PRACTICE, I ALSO TOOK HELP OF AI.
+
 SHRI SHOBHA DENTAL & ENT CLINIC — DEMO WEBSITE
 ================================================
 
