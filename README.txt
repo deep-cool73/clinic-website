@@ -1,27 +1,15 @@
-I MADE THIS PROJECT FOR MY PRACTICE, I ALSO TOOK HELP OF AI.
+This folder is a placeholder for the clinic's real photos and videos.
 
-SHRI SHOBHA DENTAL & ENT CLINIC — DEMO WEBSITE
-================================================
+This demo currently uses styled placeholder graphics (SVG illustrations
+and icon-based gallery tiles) instead of real photography, so nothing is
+broken or missing when you open the site.
 
-Files
------
-index.html
-style.css
-script.js
-assets/
+To finish the site with real content, add files here such as:
+  - clinic-exterior.jpg
+  - reception.jpg
+  - treatment-room.jpg
+  - dr-priya-gaur.jpg
+  - clinic-walkthrough.mp4
 
-How to run
-----------
-1. Keep the three files in the same folder.
-2. Double-click index.html, or open it in any modern browser.
-3. No backend is required.
-
-Notes
------
-- The gallery uses polished CSS placeholders because no source clinic images were attached.
-- Replace the gallery placeholders with client-supplied photos when available.
-- Google Fonts are loaded from Google Fonts when internet access is available; the page has sensible system fallbacks.
-- The appointment form is a front-end demo only. It validates input and displays a confirmation message but does not send/store data.
-- Opening hours were intentionally not invented; the UI says to contact the clinic for timings.
-- No unsupported medical guarantees, awards, equipment claims, pricing, certifications, or fabricated testimonials were added.
-- WhatsApp, phone, Beacons and Google Maps links are included from the supplied information.
+Then update the corresponding <img>/<video> references in index.html
+(the gallery section and hero/about visuals) to point to these files.
